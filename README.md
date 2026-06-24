@@ -9,12 +9,11 @@ This repository contains the tasks completed during the CodeAlpha Internship.
 - Dataset: (https://www.kaggle.com/datasets/saurabh00007/iriscsv)
 
   
-2. Task 2 - unemployeement_analysis
-- Dataset: (https://www.kaggle.com/datasets/gokulrajkmv/unemployment-in-india)
-
-  
-3. Task 3 - sales prediction
+2. Task 2 - sales prediction
 - Dataset: (https://www.kaggle.com/datasets/bumba5341/advertisingcsv)
+
+3. Task 3 - unemployeement_analysis
+- Dataset: (https://www.kaggle.com/datasets/gokulrajkmv/unemployment-in-india)
 
   
 Tools Used:
