@@ -6,9 +6,17 @@ This repository contains the tasks completed during the CodeAlpha Internship.
 
 ## Tasks
 1. Task 1 - iris_project
-2. Task 2 - unenployeement_analysis
-3. Task 3 - sales prediction
+- Dataset: (https://www.kaggle.com/datasets/saurabh00007/iriscsv)
 
+  
+2. Task 2 - unenployeement_analysis
+- Dataset: (https://www.kaggle.com/datasets/gokulrajkmv/unemployment-in-india)
+
+  
+3. Task 3 - sales prediction
+- Dataset: (https://www.kaggle.com/datasets/bumba5341/advertisingcsv)
+
+  
 Tools Used:
 - Python
 - Google Colab
